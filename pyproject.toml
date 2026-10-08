@@ -1,0 +1,15 @@
+[project]
+name = "pvdxdevref"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pymupdf4llm>=1.28.2",
+]
+
+[project.optional-dependencies]
+# vectors on CPU (small, works anywhere)
+embed = ["fastembed>=0.9.0", "numpy>=2.5.3"]
+# vectors on an NVIDIA GPU (large download, bundles its own CUDA runtime)
+gpu = ["sentence-transformers>=3.0", "numpy>=2.5.3"]

@@ -1,0 +1,5 @@
+index/
+.venv/
+__pycache__/
+markdown/sband/*
+original/sband/*
