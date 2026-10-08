@@ -66,6 +66,13 @@ cheaper than loading the whole corpus.
 | SCH1000 series | `gyroscope/SCH1000-assembly-instructions.md` | Assembly instructions |
 | SCH16T C code example | `gyroscope/sch16t-c-code-example/` | **Working STM32 (HAL) example project** — `code/main.c`, `hw.c`, register-level driver. Extracted as-is (not converted), since it's already source code. Start with `code/main.c` and `code/hw.c`. |
 
+## UHF Radio
+
+| Part | File | Notes |
+|---|---|---|
+| AT86RF215 (sub-GHz + 2.4 GHz IEEE 802.15.4 transceiver, 235 pages) | `uhf/AT86RF215-datasheet.md` | Full register map (search `RF09_`, `RF24_`, `BBC0_`, `RF_PN`), SPI protocol, state machine. The register summary is in chapter 8, page 181. |
+| ATREB215-XPRO / XPRO-A extension board | `uhf/ATREB215-XPRO-user-guide.md` | Board level: Xplained Pro header pinout and SMA antenna connectors |
+
 ## MCU (SAMD51 / Cortex-M4)
 
 | Doc | File | Notes |
