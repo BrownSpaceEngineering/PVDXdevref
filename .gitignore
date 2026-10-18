@@ -3,3 +3,4 @@ index/
 __pycache__/
 markdown/sband/*
 original/sband/*
+.DS_Store
