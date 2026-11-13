@@ -32,6 +32,10 @@ Search with `uv run main.py search "<query>"`. Page markers look like `<!-- page
 - `display/SSD1362-controller.md`
 - `display/SSD1362_v1.0.md`
 
+## fuel-gauge
+
+- `fuel-gauge/MAX17201-MAX17215.md`
+
 ## gyroscope
 
 - `gyroscope/SCH1000-assembly-instructions.md`
@@ -40,6 +44,10 @@ Search with `uv run main.py search "<query>"`. Page markers look like `<!-- page
 - `gyroscope/assembly-instructions-for-sch1000.md`
 - `gyroscope/sch16t-k01-datasheet-full.md`
 - `gyroscope/sch16t-pcb-specification.md`
+
+## h-bridge
+
+- `h-bridge/drv8837c-h-bridge.md`
 
 ## magnetometer
 
