@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MCP1603-330I_MC
+#/335661/1662881/2.50/9/3/Integrated Circuit
+DEF MCP1603-330I_MC IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "MCP1603-330I_MC" 1250 200 50 H V L CNN
+F2 "SON50P300X200X100-9N-D" 1250 100 50 H I L CNN
+F3 "https://static6.arrow.com/aropdfconversion/4acbe9a1e3d4dc5e34c6ab3aecc61a4631ca5442/22042a.pdf" 1250 0 50 H I L CNN
+F4 "Switching Voltage Regulators 2.0MHz 0.5A SyncBuck PFM PWM Reg 2.0 MHz, 500 mA Synchronous Buck Regulator" 1250 -100 50 H I L CNN "Description"
+F5 "1" 1250 -200 50 H I L CNN "Height"
+F6 "579-MCP1603-330I/MC" 1250 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP1603-330I-MC?qs=aE5D7Pt6ky0kPzpqxvgbEw%3D%3D" 1250 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Microchip" 1250 -500 50 H I L CNN "Manufacturer_Name"
+F9 "MCP1603-330I/MC" 1250 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X LX 1 0 0 200 R 50 50 0 0 P
+X NC_1 2 0 -100 200 R 50 50 0 0 P
+X ~SHDN 3 0 -200 200 R 50 50 0 0 P
+X VFB/VOUT 4 0 -300 200 R 50 50 0 0 P
+X EP 9 700 -800 200 U 50 50 0 0 P
+X GND 8 1400 0 200 L 50 50 0 0 P
+X VIN 7 1400 -100 200 L 50 50 0 0 P
+X NC_3 6 1400 -200 200 L 50 50 0 0 P
+X NC_2 5 1400 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

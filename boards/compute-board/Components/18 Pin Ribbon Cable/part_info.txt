@@ -1,0 +1,9 @@
+Manufacturer=Hirose
+PartNumber=FH34SRJ-18S-0.5SH(50)
+PartCategory=Connector
+PackageCategory=Other
+PinCount=20
+Version=1.7
+Released=2019-11-26 11:45:27
+Downloaded=2026-08-11 02:16:15
+3D=Y

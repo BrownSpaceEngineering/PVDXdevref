@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1603-330I_MC
+D Switching Voltage Regulators 2.0MHz 0.5A SyncBuck PFM PWM Reg 2.0 MHz, 500 mA Synchronous Buck Regulator
+K
+F https://static6.arrow.com/aropdfconversion/4acbe9a1e3d4dc5e34c6ab3aecc61a4631ca5442/22042a.pdf
+$ENDCMP
+#
+#End Doc Library

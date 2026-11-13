@@ -1,0 +1,203 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "cc5055d2-349f-4e91-a151-9a2f788b119f")
+	(paper "A4")
+	(lib_symbols)
+	(text "REMARK: we have chosen to handle active low pins in software. \nports are marked as such but do not have pull ups. "
+		(exclude_from_sim no)
+		(at 44.958 61.976 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0b6f6c7b-4a49-41ed-9dcd-0e33ba76d359")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 269.494 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1025e44f-bf8c-406c-8339-63cc3ef0022b")
+	)
+	(text "Milan Capoor"
+		(exclude_from_sim no)
+		(at 276.86 189.484 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "862a4bca-86e8-47bf-a657-f8574b05edc7")
+	)
+	(text "PVDX COMPUTE BOARD\n"
+		(exclude_from_sim no)
+		(at 197.866 190.246 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a6791b24-dcf1-49f2-9f31-5edc466142c2")
+	)
+	(sheet
+		(at 43.18 34.29)
+		(size 34.29 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "539aec53-5447-4510-8feb-4ff7e50b33e1")
+		(property "Sheetname" "Main components"
+			(at 43.18 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals.kicad_sch"
+			(at 43.18 47.5746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SAMD51 dev board"
+				(path "/cc5055d2-349f-4e91-a151-9a2f788b119f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.27 34.29)
+		(size 31.75 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "61356805-0e62-4432-93e2-9465307ac3b7")
+		(property "Sheetname" "Header Banks"
+			(at 128.27 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "header_banks.kicad_sch"
+			(at 128.27 48.8446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SAMD51 dev board"
+				(path "/cc5055d2-349f-4e91-a151-9a2f788b119f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 34.29)
+		(size 34.29 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ea0f2518-2951-420b-9275-c672d5183aa9")
+		(property "Sheetname" "SAMD51 Assignments"
+			(at 85.09 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SAMD51_pinout.kicad_sch"
+			(at 85.09 48.8446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 85.09 34.29 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "SAMD51 dev board"
+				(path "/cc5055d2-349f-4e91-a151-9a2f788b119f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

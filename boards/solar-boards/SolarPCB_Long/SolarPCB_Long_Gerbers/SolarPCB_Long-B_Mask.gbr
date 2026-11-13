@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*%
+%TF.CreationDate,2026-09-13T19:48:48-04:00*%
+%TF.ProjectId,SolarPCB_Long,536f6c61-7250-4434-925f-4c6f6e672e6b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.7)) date 2026-09-13 19:48:48*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.700000X1.700000*%
+%ADD11O,1.700000X1.700000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X23417845Y-110539452D03*
+D11*
+X23417845Y-107999452D03*
+%TD*%
+M02*

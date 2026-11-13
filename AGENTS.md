@@ -10,4 +10,6 @@ To answer a hardware question:
 
 If you cannot run the embedding ingest/it is running too slow, just search via the markdown index.
 
+Board schematics and layouts (KiCad) are in `boards/`. See `boards/README.md`. The `.kicad_sch` files are plain text, so you can grep them for nets, reference designators, and part values. Ingest does not index them.
+
 Do not edit files in `markdown/` or `index/`. The command `uv run main.py ingest` generates them from `original/`.

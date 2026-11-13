@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "FH34SRJ18S05SH50"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "FH34SRJ18S05SH50")
+        (spec "default")
+    )
+)

@@ -1,0 +1,11 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MCP1603") (type "KiCad") (uri "${KIPRJMOD}/Components/Buck converters/MCP1603.kicad_sym") (options "") (descr ""))
+	(lib (name "SCH16T-K01-1") (type "KiCad") (uri "${KIPRJMOD}/Components/Gyroscope/SCH16T-K01-1.kicad_sym") (options "") (descr ""))
+	(lib (name "FTSH-105-01-L-DV-007-K") (type "KiCad") (uri "${KIPRJMOD}/Components/J Link/FTSH-105-01-L-DV-007-K.kicad_sym") (options "") (descr ""))
+	(lib (name "EM008LXQADG13IS1T") (type "KiCad") (uri "${KIPRJMOD}/Components/MRAM/EM008LXQADG13IS1T.kicad_sym") (options "") (descr ""))
+	(lib (name "FH41-50S-0_5SH_28_") (type "KiCad") (uri "${KIPRJMOD}/Components/Ribbon Cables/FH41-50S-0_5SH_28_.kicad_sym") (options "") (descr ""))
+	(lib (name "RM3100") (type "KiCad") (uri "${KIPRJMOD}/Components/RM3100/RM3100.kicad_sym") (options "") (descr ""))
+	(lib (name "SAMD51") (type "KiCad") (uri "${KIPRJMOD}/Components/SAMD51/SAMD51.kicad_sym") (options "") (descr ""))
+	(lib (name "USBC") (type "KiCad") (uri "${KIPRJMOD}/Components/USBC/2026-04-30_19-25-24.kicad_sym") (options "") (descr ""))
+)

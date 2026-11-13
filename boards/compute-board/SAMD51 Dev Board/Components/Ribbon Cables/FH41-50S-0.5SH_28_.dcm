@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FH41-50S-0.5SH_28_
+D 50 Position +10 gnd contacts  FFC Connector Contacts, Bottom 0.020" (0.50mm) Surface Mount, Right Angle
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-30/592855.pdf
+$ENDCMP
+#
+#End Doc Library

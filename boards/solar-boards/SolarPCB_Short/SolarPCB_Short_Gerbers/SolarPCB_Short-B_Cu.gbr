@@ -1,0 +1,30 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*%
+%TF.CreationDate,2026-09-13T20:31:24-04:00*%
+%TF.ProjectId,SolarPCB_Short,536f6c61-7250-4434-925f-53686f72742e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.7)) date 2026-09-13 20:31:24*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10R,1.700000X1.700000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11O,1.700000X1.700000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,J1,1,Pin_1*%
+%TO.N,Net-(SC1-Pad1)*%
+X60325000Y-117470000D03*
+D11*
+%TO.P,J1,2,Pin_2*%
+%TO.N,Net-(SC1-Pad2)*%
+X60325000Y-120010000D03*
+%TD*%
+M02*

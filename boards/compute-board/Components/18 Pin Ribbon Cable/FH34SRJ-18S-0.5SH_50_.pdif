@@ -1,0 +1,238 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "FH34SRJ-18S-0.5SH_50_"
+   (description "FFC & FPC Connectors 18P SMT HORIZ ZIF AU 1MM HGHT .5MM PITCH")
+   (family "CON")
+   (package "FH34SRJ18S05SH50")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/2/FH34SRJ-18S-0.5SH(50).pdf")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Mouser Part Number" "798-FH34SRJ18S05SH50")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FH34SRJ-18S-0.5SH50?qs=vnk2wBG9e14baKy2cefMsg%3D%3D")
+   (attribute "Manufacturer_Name" "Hirose")
+   (attribute "Manufacturer_Part_Number" "FH34SRJ-18S-0.5SH(50)")
+   (gate
+    (symbol "FH34SRJ-18S-0.5SH_50_")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "7" 7 PS)
+    (pin "8" 8 PS)
+    (pin "9" 9 PS)
+    (pin "10" 10 PS)
+    (pin "11" 11 PS)
+    (pin "12" 12 PS)
+    (pin "13" 13 PS)
+    (pin "14" 14 PS)
+    (pin "15" 15 PS)
+    (pin "16" 16 PS)
+    (pin "17" 17 PS)
+    (pin "18" 18 PS)
+    (pin "MP1" MP1 PS)
+    (pin "MP2" MP2 PS)
+   )
+  )
+  (symbol "FH34SRJ-18S-0.5SH_50_"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -1800) (pt 200 -1800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 1000 -1700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -1600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -1500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -1400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -1300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -1200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -1100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -1000) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -900) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -800) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "FH34SRJ18S05SH50"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -5.5 1.45)
+      (pt 5.5 1.45)
+      (pt 5.5 -1.45)
+      (pt -5.5 -1.45)
+      (pt -5.5 1.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.5 -1.45)
+      (pt 4.5 -1.45)
+      (pt 4.5 -1.45)
+      (pt -4.5 -1.45)
+      (pt -4.5 -1.45))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.5 3.4)
+      (pt 6.5 3.4)
+      (pt 6.5 -2.6)
+      (pt -6.5 -2.6)
+      (pt -6.5 3.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 5 1.45)
+      (pt 5.5 1.45)
+      (pt 5.5 -0.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -5 1.45)
+      (pt -5.5 1.45)
+      (pt -5.5 -0.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 4.25 2.4)
+      (arc (pt 4.250 2.400) (pt 4.200 2.300) (pt 4.300 2.400) (start 180.0) (sweep 90.0))
+      (pt 4.25 2.3)
+      (arc (pt 4.250 2.300) (pt 4.200 2.300) (pt 4.300 2.400) (start 180.0) (sweep -90.0))
+      (pt 4.25 2.4)
+      (arc (pt 4.250 2.400) (pt 4.200 2.300) (pt 4.300 2.400) (start 180.0) (sweep 90.0))
+      (pt 4.25 2.3))))
+   (leg 1 (pt 4.250 1.300) (padstack 0))
+   (leg 2 (pt 3.750 1.300) (padstack 0))
+   (leg 3 (pt 3.250 1.300) (padstack 0))
+   (leg 4 (pt 2.750 1.300) (padstack 0))
+   (leg 5 (pt 2.250 1.300) (padstack 0))
+   (leg 6 (pt 1.750 1.300) (padstack 0))
+   (leg 7 (pt 1.250 1.300) (padstack 0))
+   (leg 8 (pt 0.750 1.300) (padstack 0))
+   (leg 9 (pt 0.250 1.300) (padstack 0))
+   (leg 10 (pt -0.250 1.300) (padstack 0))
+   (leg 11 (pt -0.750 1.300) (padstack 0))
+   (leg 12 (pt -1.250 1.300) (padstack 0))
+   (leg 13 (pt -1.750 1.300) (padstack 0))
+   (leg 14 (pt -2.250 1.300) (padstack 0))
+   (leg 15 (pt -2.750 1.300) (padstack 0))
+   (leg 16 (pt -3.250 1.300) (padstack 0))
+   (leg 17 (pt -3.750 1.300) (padstack 0))
+   (leg 18 (pt -4.250 1.300) (padstack 0))
+   (leg MP1 (pt 5.250 -1.200) (padstack 19))
+   (leg MP2 (pt -5.250 -1.200) (padstack 20))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.300 0.800 0 0 90.000))
+   )
+   (padstack 19
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 0.800 0 0 90.000))
+   )
+   (padstack 20
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 0.800 0 0 90.000))
+   )
+   (model "FH34SRJ-18S-0.5SH_50_.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

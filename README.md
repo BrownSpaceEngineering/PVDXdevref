@@ -26,6 +26,7 @@ uv run main.py search "WHO_AM_I register" -k 5 --part 9-axis
 - `original/` source files provided by humans
 - `markdown/` generated Markdown
 - `index/` ingest-generated search index
+- `boards/` KiCad board designs (schematics, PCB, gerbers), copied from the board repos
 
 ## Note on Datasheet Availability
 

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FH34SRJ-18S-0_5SH_50_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-11-26-11:45:27)
+    (mountForm default
+        (footprintRef "FH34SRJ18S05SH50")
+        (spec "System")
+    )
+)
