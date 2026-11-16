@@ -148,6 +148,11 @@ Search with `uv run main.py search "<query>"`. Page markers look like `<!-- page
 - `mram/EMxxLX-MRAM-datasheet.md`
 - `mram/EMxxLX_Datasheet_v3_2-3474557.md`
 
+## pmb
+
+- `pmb/MCP23017-MCP23S17-16-Bit-IO-Expander-with-Serial-Interface-DS20001952.md`
+- `pmb/ina226.md`
+
 ## sband
 
 - `sband/ICD-01-10022-A6 VestaLink S25 (STXG2) Interface Control Docuent-2.md`

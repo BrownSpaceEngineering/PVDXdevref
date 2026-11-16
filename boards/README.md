@@ -12,6 +12,7 @@ KiCad lock files, `-backups/`, autosaves, `fp-info-cache`, `.kicad_prl`, and `.b
 | `solar-boards/` | [SolarBoards](https://github.com/BrownSpaceEngineering/SolarBoards) | `316883e` (2026-09-24) | Solar PCBs: `SolarPCB_Arm`, `SolarPCB_Long`, `SolarPCB_Short` with gerbers |
 | `uhf-balun-board/` | [uhf-balun-board](https://github.com/BrownSpaceEngineering/uhf-balun-board) | `b9d6cff` (2026-09-22) | UHF balun board (newer revision, adds plated through-holes); gerbers in `gerbers/` |
 | `balun-board/` | [balun-board](https://github.com/BrownSpaceEngineering/balun-board) | `164e4f9` (2026-09-16) | Earlier revision of the UHF balun board |
+| `adcs-pmb/` | [PVDX-ADCS-PMB](https://github.com/BrownSpaceEngineering/PVDX-ADCS-PMB) | `089a12e` (2026-09-29) | ADCS + perovskite measurement board: photodiode amplifiers, magnetorquer drivers, perovskite pixel switching (`schematics/`); gerbers and plots in `manufacturing/` |
 | `magnetorquer-board/` | [magnetorquer-board](https://github.com/BrownSpaceEngineering/magnetorquer-board) | `9018ce9` (2025-10-23) | Magnetorquer board |
 
 Schematics are in `*.kicad_sch` files. These are plain-text S-expressions, so you can grep them for
